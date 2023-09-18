@@ -1,1 +1,2 @@
-HEllo from the doc2 file!
+Hello from the doc2 file!
+added 2nd line for testing
